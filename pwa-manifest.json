@@ -1,0 +1,52 @@
+{
+    "name": "Well Smart RO",
+    "short_name": "Well Smart RO",
+    "description": "Drinking Pure Alkaline",
+    "icons": [
+        {
+            "src": "https:\/\/ro.wellvalue.in\/wp-content\/uploads\/2023\/08\/Well-Smart-Icon.webp",
+            "sizes": "192x192",
+            "type": "image\/png",
+            "purpose": "any"
+        },
+        {
+            "src": "https:\/\/ro.wellvalue.in\/wp-content\/uploads\/2023\/08\/Well-Smart-Icon.webp",
+            "sizes": "192x192",
+            "type": "image\/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https:\/\/ro.wellvalue.in\/wp-content\/uploads\/2023\/08\/Well-Smart-Icon.webp",
+            "sizes": "512x512",
+            "type": "image\/png",
+            "purpose": "any"
+        },
+        {
+            "src": "https:\/\/ro.wellvalue.in\/wp-content\/uploads\/2023\/08\/Well-Smart-Icon.webp",
+            "sizes": "512x512",
+            "type": "image\/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https:\/\/ro.wellvalue.in\/wp-content\/uploads\/2023\/08\/Well-Smart-Icon.webp",
+            "sizes": "512x512",
+            "type": "image\/png",
+            "purpose": "monochrome"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "https:\/\/ro.wellvalue.in\/wp-content\/uploads\/2023\/08\/Well-Smart-Icon.webp",
+            "sizes": "512x512",
+            "type": "image\/png",
+            "purpose": "maskable"
+        }
+    ],
+    "background_color": "#D5E0EB",
+    "theme_color": "rgb(213,224,235)",
+    "display": "standalone",
+    "orientation": "portrait",
+    "start_url": "https:\/\/ro.wellvalue.in\/",
+    "scope": "https:\/\/ro.wellvalue.in\/",
+    "prefer_related_applications": ""
+}
