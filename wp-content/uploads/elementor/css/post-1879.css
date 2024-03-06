@@ -1,0 +1,36 @@
+.elementor-1879 .elementor-element.elementor-element-038c173{--display:flex;--background-transition:0.3s;}.elementor-1879 .elementor-element.elementor-element-44b329e{text-align:justify;font-family:"SF Pro", Sans-serif;font-weight:400;}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'SF Pro';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://krishnaanandam.com/wp-content/uploads/2023/06/SF-Pro-Display-Bold-1.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'SF Pro';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://krishnaanandam.com/wp-content/uploads/2023/06/SF-Pro-Display-Heavy-1.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'SF Pro';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://krishnaanandam.com/wp-content/uploads/2023/06/SF-Pro-Display-Black-1.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'SF Pro';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('https://krishnaanandam.com/wp-content/uploads/2023/06/SF-Pro-Display-Medium-1.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'SF Pro';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://krishnaanandam.com/wp-content/uploads/2023/06/SF-Pro-Display-Light-1.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
